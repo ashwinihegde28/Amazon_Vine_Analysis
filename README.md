@@ -31,6 +31,7 @@ Companies that will pay a fee to Amazon and may provide free products to Vine me
  ![Table3](https://github.com/ashwinihegde28/Amazon_Vine_Analysis/blob/main/Resources/images/TableReview.PNG)<br><br>
  4. Vine_table <br>
  ![Table4](https://github.com/ashwinihegde28/Amazon_Vine_Analysis/blob/main/Resources/images/TableVine.PNG)<br><br>
+ - All the four tables are exported as csv files in the [Resources Folder](https://github.com/ashwinihegde28/Amazon_Vine_Analysis/tree/main/Resources)<br>
  
 ### Deliverable: 2
 - How many Vine reviews and non-Vine reviews were there? <br>
