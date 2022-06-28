@@ -33,17 +33,17 @@ Companies that will pay a fee to Amazon and may provide free products to Vine me
  ![Table4](https://github.com/ashwinihegde28/Amazon_Vine_Analysis/blob/main/Resources/images/TableVine.PNG)<br><br>
  
 ### Deliverable: 2
-- How many Vine reviews and non-Vine reviews were there?
+- How many Vine reviews and non-Vine reviews were there? <br>
   The dataset appears a little on the small side for Big Data with 145,431 reviews. Only reviews with 20 or more votes where considered for the rest of the analysis leaving 3,342 reviews. Helpful votes were defined as being 50% or greater than the total votes narrowing the list to 1,685 reviews.
 
   Unfortunately, due to the applied criteria, it significantly diminished the sample size. In the remainder 1,685 reviews, there were no reviews that were paid for by the Vine program. <br>
 All 1,656 remaining reviews are unpaid Vine with 0 paid Vine. Please find the screenshot beow <br>
   ![Paid](https://github.com/ashwinihegde28/Amazon_Vine_Analysis/blob/main/Resources/images/Paid.PNG)<br><br>
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? <br>
    As for 5-star unpaid Vine reviews, there were 631 reviews and 0 paid Vine with 5-star reviews.<br>
   ![UnPaid](https://github.com/ashwinihegde28/Amazon_Vine_Analysis/blob/main/Resources/images/UnPaid.PNG)<br><br>
 
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? <br>
   The percentage of unpaid, 5-star Vine reviews resulted in 37.4%, while the percentage of paid, 5-star Vine reviews would be 0%.<br>
   ![PercentageUnPaid](https://github.com/ashwinihegde28/Amazon_Vine_Analysis/blob/main/Resources/images/PercentageUnPaid.PNG)<br><br> 
   
